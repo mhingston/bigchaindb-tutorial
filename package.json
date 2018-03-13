@@ -1,0 +1,17 @@
+{
+  "name": "bigchaindb-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mark Hingston <git@mail.bitshift.cc>",
+  "license": "ISC",
+  "dependencies": {
+    "bigchaindb-driver": "^3.2.0",
+    "bigchaindb-orm": "^0.1.10",
+    "bip39": "^2.5.0"
+  }
+}
